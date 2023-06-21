@@ -1,0 +1,8 @@
+.about_page-catalog
+ .catalog-facts
+ {
+    -webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-column-gap:124px;-moz-column-gap:124px;column-gap:124px;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}
+    .about_page-catalog 
+    .catalog-facts 
+    .fact-item{
+    margin:28px 0;text-align:center;width:100%;}

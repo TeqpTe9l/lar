@@ -1,0 +1,40 @@
+1;Монитор Compit IPS 75Hz HV2203 Series 1, черный;18530;75;1920?1080 Full HD;IPS;75;1;/img/1.jpg;Монитор
+2;Монитор Xiaomi Mi Monitor 1C, черный;31902;60;1920?1080 Full HD;IPS;75;1;/img/2.jpg;Монитор
+3;Монитор SANC M2742PH, черный;20180;165;1920?1080 Full HD;IPS;75;1;/img/3.jpg;Монитор
+4;Bluetooth Наушники i9s с микрофоном! ;2168;120;Bluetooth Наушники i9s с микрофоном! ;21 месяцев;20;2;/img/aks/1.jpg;Наушники
+5;Acer Блютуз гарнитура для смартфона /Накладные портативные светодиодные;3340;125;Блютуз гарнитура для смартфона /Накладные портативные светодиодные;6 месяца;20;2;/img/aks/2.jpg;Наушники
+6;Philips Наушники с анимацией ! Cенсорное управление !;3586;130;Наушники с анимацией ! Cенсорное управление !;9 месяцев;20;2;/img/aks/3.jpg;Наушники
+7;Samsung Проводные наушники для Айфона с разъемом Lightning;2567;120; Проводные наушники для Айфона с разъемом Lightning;28 месяца;20;2;/img/aks/4.jpg;Наушники
+8;Xiaomi Детский караоке с Bluetooth;1495;1;Детский караоке с Bluetooth;22 месяцев;15;3;/img/aks/21.jpg;Микрофон
+9;Compit Redragon Seyfert GM100, jack 3.5 мм, кабель 1.5 м;1850;2;Redragon Seyfert GM100, jack 3.5 мм, кабель 1.5 м;25 месяца;15;3;/img/aks/22.jpg;Микрофон
+ 10;Samsung Bluetoth микрофон/микрофон детский/микрофон караоке для детей;1576;3;Bluetoth микрофон/микрофон детский/микрофон караоке для детей;19 месяцев;15;3;/img/aks/23.jpg;Микрофон
+11;Philips Maono AU-PM461TR (Black) Plug and Play, для записи вокала, стриминга, игр, ASMR;1955;4;Maono AU-PM461TR (Black) Plug and Play, для записи вокала, стриминга, игр, ASMR;4 месяца;15;3;/img/aks/24.jpg;Микрофон
+12;Philips Студийный комплект для звукозаписи, стрима, прямого эфира, конференций;3492;5;Студийный комплект для звукозаписи, стрима, прямого эфира, конференций;7 месяцев;15;3;/img/aks/25.jpg;Микрофон
+13;Acer караоке колонка с микрофоном UnionGroup;2854;6;караоке колонка с микрофоном UnionGroup;26 месяца;15;3;/img/aks/26.jpg;Микрофон
+14;Acer Tesler WMS-320;2475;7;Tesler WMS-320;27 месяца;15;3;/img/aks/27.jpg;Микрофон
+15;Монитор Samsung LC24F396FHIXCI, черный;33046;75;1920?1080 Full HD;IPS;751;/img/10.jpg;Монитор
+16;Монитор Compit IPS 75Hz HA2405 Series 1, черный;22558;60;1920?1080 Full HD;IPS;751;/img/11.jpg;Монитор
+17;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;31627;165;1920?1080 Full HD;IPS;751;/img/12.jpg;Монитор
+18;Монитор SANC M2453, черный;14696;75;1920?1080 Full HD;IPS;751;/img/13.jpg;Монитор
+19;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;22310;60;1920?1080 Full HD;IPS;751;/img/14.jpg;Монитор
+20;Монитор Samsung Odyssey 27G55T;25262;165;1920?1080 Full HD;IPS;751;/img/15.jpg;Монитор
+21;Монитор Xiaomi Монитор Xiaomi Redmi Display 27 1080P 60Hz (RMMNT27NF), черный;30478;75;1920?1080 Full HD;IPS;751;/img/16.jpg;Монитор
+22; Монитор Xiaomi Mi Monitor 1C, черный;14916;60;1920?1080 Full HD;IPS;751;/img/17.jpg;Монитор
+23;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;18610;165;1920?1080 Full HD;IPS;751;/img/18.jpg;Монитор
+24;Монитор Philips 23,8 243V7QJABF (00/01) черный (LED,IPS,1920?1080,76 Гц,16:9,матовая,5 мс,178°гор/178°вер,HDMI,DP,колонки), черный;31830;75;1920?1080 Full HD;IPS;751;/img/19.jpg;Монитор
+25;Монитор Samsung C24RG50FZI, черный;26144;60;1920?1080 Full HD;IPS;751;/img/20.jpg;Монитор
+26;Монитор Compit IPS 75Hz HV2203 Series 1, черный;19872;165;1920?1080 Full HD;IPS;751;/img/21.jpg;Монитор
+27;Монитор Xiaomi Mi Monitor 1C, черный;20422;75;1920?1080 Full HD;IPS;751;/img/22.jpg;Монитор
+28;samsung Мышь беспроводная;1297;5;Defender Accura,черный + красный, 6 кнопок, 800-1600 dpi;24 месяца;1;4;/img/aks/33.jpg;Мышь
+29;Acer Проводная игровая мышь;1872;6;M185 Wireless Mouse - SWIFT GREY;18 месяцев;2;4;/img/aks/34.jpg;Мышь
+30;Philips Мышь беспроводная оптическая;1170;4;Defender Alfa оптика, 6 кнопок, 3200dpi;3 месяца;3;4;/img/aks/35.jpg;Мышь
+31;Xiaomi Logitech Мышь;1416;4; A4Tech Bloody V7, черный;6 месяцев;4;4;/img/aks/36.jpg;Мышь
+32;Acer Проводная игровая мышь;1998;5;G903 OPT Lightspeed HERO Gaming WL 910-005673;25 месяца;1;4;/img/aks/37.jpg;Мышь
+33;Samsung Игровая мышь проводная;1561;5;Defender Warfame RGB, 8 кнопок, 12800 dpi;19 месяцев;2;4;/img/aks/38.jpg;Мышь
+34;Acer Logitech Мышь ;1119;6;Xiaomi Dual Mode Wireless Mouse Silent Edition WXSMSBMW02;4 месяца;3;4;/img/aks/39.jpg;Мышь
+35;Philips Игровая мышь;1388;4;M100 OPT USB black 910-005003;7 месяцев;4;4;/img/aks/31.jpg;Мышь
+36;Samsung Беспроводная мышь;1430;4;Defender Titan RGB, Macro, 6 кнопок, 6400;26 месяца;1;4;/img/aks/32.jpg;Мышь
+37;Xiaomi Logitech Мышь;1580;5;A4Tech Bloody V8, черный;20 месяцев;2;4;/img/aks/33.jpg;Мышь
+38;Philips Проводная игровая мышь;1833;6; G604 Gaming WL Black 910-005649;5 месяца;3;4;/img/aks/34.jpg;Мышь
+39;Acer Игровая мышь проводная;1634;4;Defender AddOn 6 кнопок, 12800dpi;8 месяцев;4;4;/img/aks/35.jpg;Мышь
+40;Acer Logitech Мышь ;1241;4;MB-230 4 кнопки, 1000/1200dpi, черный;27 месяца;1;4;/img/aks/36.jpg;Мышь

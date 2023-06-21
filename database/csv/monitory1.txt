@@ -1,0 +1,100 @@
+ 1;/img/1.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;18530;31;1920?1080 Full HD;IPS;75;1;Монитор
+2;/img/2.jpg; Монитор Xiaomi Mi Monitor 1C, черный;31902;32;1920?1080 Full HD;IPS;60;2;Монитор
+3;/img/3.jpg; Монитор SANC M2742PH, черный;20180;24;1920?1080 Full HD;IPS;165;3;Монитор
+4;/img/4.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;12732;30;2560x1080;VA;200;4;Монитор
+5;/img/5.jpg; Монитор Samsung LC24F396FHIXCI, черный;22174;32;1920?1080 Full HD;IPS;60;1;Монитор
+6;/img/6.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;15244;26;1920?1080 Full HD;IPS;165;1;Монитор
+7;/img/7.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;19168;20;1920?1080 Full HD;VA;75;2;Монитор
+8;/img/8.jpg;Монитор SANC M2453, черный;30071;28;2560x1080;VA;75;3;Монитор
+9;/img/9.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;14171;31;1920?1080 Full HD;IPS;200;4;Монитор
+10;/img/10.jpg;Монитор Samsung LC24F396FHIXCI, черный;33046;25;1920?1080 Full HD;IPS;75;5;Монитор
+11;/img/11.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;22558;28;1920?1080 Full HD;VA;60;1;Монитор
+12;/img/12.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;31627;29;1920?1080 Full HD;IPS;165;2;Монитор
+13;/img/13.jpg;Монитор SANC M2453, черный;14696;29;1920?1080 Full HD;IPS;200;3;Монитор
+14;/img/14.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;22310;25;1920?1080 Full HD;IPS;60;4;Монитор
+15;/img/15.jpg;Монитор Samsung Odyssey 27G55T;25262;27;1920?1080 Full HD;VA;75;5;Монитор
+16;/img/16.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 27 1080P 60Hz (RMMNT27NF), черный;30478;27;1920?1080 Full HD;IPS;60;1;Монитор
+17;/img/17.jpg; Монитор Xiaomi Mi Monitor 1C, черный;14916;28;1920?1080 Full HD;IPS;165;2;Монитор
+18;/img/18.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;18610;25;1920?1080 Full HD;VA;200;3;Монитор
+19;/img/19.jpg;Монитор Philips 23,8 243V7QJABF (00/01) черный (LED,IPS,1920?1080,76 Гц,16:9,матовая,5 мс,178°гор/178°вер,HDMI,DP,колонки), черный;31830;31;1920?1080 Full HD;VA;60;4;Монитор
+20;/img/20.jpg;Монитор Samsung C24RG50FZI, черный;26144;22;1920?1080 Full HD;IPS;165;5;Монитор
+21;/img/21.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;19872;20;1920?1080 Full HD;IPS;75;1;Монитор
+22;/img/22.jpg; Монитор Xiaomi Mi Monitor 1C, черный;20422;22;1920?1080 Full HD;VA;75;2;Монитор
+23;/img/23.jpg; Монитор SANC M2742PH, черный;31313;32;1920?1080 Full HD;IPS;200;3;Монитор
+24;/img/24.jpg;Монитор Philips 223V7QSB/10, черный;22647;20;1920?1080 Full HD;IPS;75;4;Монитор
+25;/img/25.jpg;Монитор Samsung S24R356FZI, черный;28096;21;1920?1080 Full HD;IPS;60;5;Монитор
+26;/img/26.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;17534;30;1920?1080 Full HD;VA;165;1;Монитор
+27;/img/27.jpg; Монитор Xiaomi Mi Monitor 1C, черный;12723;27;1920?1080 Full HD;IPS;200;2;Монитор
+28;/img/28.jpg; Монитор SANC M2742PH, черный;14457;25;1920?1080 Full HD;IPS;60;3;Монитор
+29;/img/29.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;21347;21;1920?1080 Full HD;VA;165;4;Монитор
+30;/img/30.jpg; Монитор Samsung LC24F396FHIXCI, черный;12489;20;1920?1080 Full HD;VA;75;5;Монитор
+31;/img/31.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;19147;28;1920?1080 Full HD;IPS;75;1;Монитор
+32;/img/32.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;13927;32;1920?1080 Full HD;IPS;200;2;Монитор
+33;/img/33.jpg;Монитор SANC M2453, черный;31840;32;1920?1080 Full HD;VA;60;3;Монитор
+34;/img/34.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;31110;21;1920?1080 Full HD;IPS;165;4;Монитор
+35;/img/35.jpg;Монитор Samsung LC24F396FHIXCI, черный;19164;21;1920?1080 Full HD;IPS;75;5;Монитор
+36;/img/36.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;14602;24;1920?1080 Full HD;IPS;75;1;Монитор
+37;/img/37.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;28575;32;1920?1080 Full HD;VA;200;2;Монитор
+38;/img/38.jpg;Монитор SANC M2453, черный;14199;27;1920?1080 Full HD;IPS;75;3;Монитор
+39;/img/39.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;12115;20;1920?1080 Full HD;IPS;60;4;Монитор
+40;/img/40.jpg;Монитор Samsung Odyssey 27G55T;18479;31;1920?1080 Full HD;VA;165;5;Монитор
+41;/img/41.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 27 1080P 60Hz (RMMNT27NF), черный;21608;24;1920?1080 Full HD;VA;200;1;Монитор
+42;/img/42.jpg; Монитор Xiaomi Mi Monitor 1C, черный;33335;26;1920?1080 Full HD;IPS;60;2;Монитор
+43;/img/43.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;26567;21;1920?1080 Full HD;IPS;200;3;Монитор
+44;/img/44.jpg;Монитор Philips 23,8 243V7QJABF (00/01) черный (LED,IPS,1920?1080,76 Гц,16:9,матовая,5 мс,178°гор/178°вер,HDMI,DP,колонки), черный;18047;29;1920?1080 Full HD;VA;60;4;Монитор
+45;/img/45.jpg;Монитор Samsung C24RG50FZI, черный;34980;29;1920?1080 Full HD;IPS;165;5;Монитор
+46;/img/46.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;31397;26;1920?1080 Full HD;IPS;75;1;Монитор
+47;/img/47.jpg; Монитор Xiaomi Mi Monitor 1C, черный;28897;29;1920?1080 Full HD;IPS;75;2;Монитор
+48;/img/48.jpg; Монитор SANC M2742PH, черный;20034;25;1920?1080 Full HD;VA;200;3;Монитор
+49;/img/49.jpg;Монитор Philips 223V7QSB/10, черный;31690;21;1920?1080 Full HD;IPS;75;4;Монитор
+50;/img/50.jpg;Монитор Samsung S24R356FZI, черный;30551;26;1920?1080 Full HD;IPS;60;5;Монитор
+51;/img/1.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;13860;23;1920?1080 Full HD;IPS;165;1;Монитор
+52;/img/2.jpg; Монитор Xiaomi Mi Monitor 1C, черный;26863;25;1920?1080 Full HD;VA;200;2;Монитор
+53;/img/3.jpg; Монитор SANC M2742PH, черный;17300;20;1920?1080 Full HD;IPS;60;3;Монитор
+54;/img/4.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;12281;29;1920?1080 Full HD;IPS;165;4;Монитор
+55;/img/5.jpg; Монитор Samsung LC24F396FHIXCI, черный;18610;26;1920?1080 Full HD;VA;75;5;Монитор
+56;/img/6.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;29490;28;1920?1080 Full HD;VA;75;1;Монитор
+57;/img/7.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;32967;22;1920?1080 Full HD;IPS;200;2;Монитор
+58;/img/8.jpg;Монитор SANC M2453, черный;34631;32;1920?1080 Full HD;IPS;60;3;Монитор
+59;/img/9.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;27692;30;1920?1080 Full HD;VA;165;4;Монитор
+60;/img/10.jpg;Монитор Samsung LC24F396FHIXCI, черный;11473;30;1920?1080 Full HD;IPS;75;5;Монитор
+61;/img/11.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;12918;28;1920?1080 Full HD;IPS;75;1;Монитор
+62;/img/12.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;17082;29;1920?1080 Full HD;IPS;200;2;Монитор
+63;/img/13.jpg;Монитор SANC M2453, черный;27834;29;1920?1080 Full HD;VA;75;3;Монитор
+64;/img/14.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;24911;21;1920?1080 Full HD;IPS;60;4;Монитор
+65;/img/15.jpg;Монитор Samsung Odyssey 27G55T;23641;25;1920?1080 Full HD;IPS;165;5;Монитор;
+66;/img/16.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 27 1080P 60Hz (RMMNT27NF), черный;13032;20;1920?1080 Full HD;IPS;200;1;Монитор
+67;/img/17.jpg; Монитор Xiaomi Mi Monitor 1C, черный;17832;26;1920?1080 Full HD;VA;60;2;Монитор
+68;/img/18.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;19641;27;1920?1080 Full HD;IPS;200;3;Монитор
+69;/img/19.jpg;Монитор Philips 23,8 243V7QJABF (00/01) черный (LED,IPS,1920?1080,76 Гц,16:9,матовая,5 мс,178°гор/178°вер,HDMI,DP,колонки), черный;29814;26;1920?1080 Full HD;IPS;60;4;Монитор
+70;/img/20.jpg;Монитор Samsung C24RG50FZI, черный;27553;31;1920?1080 Full HD;VA;165;5;Монитор
+71;/img/21.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;30452;32;1920?1080 Full HD;VA;75;1;Монитор
+72;/img/22.jpg; Монитор Xiaomi Mi Monitor 1C, черный;23482;25;1920?1080 Full HD;IPS;75;2;Монитор
+73;/img/23.jpg; Монитор SANC M2742PH, черный;29943;27;1920?1080 Full HD;IPS;200;3;Монитор
+74;/img/24.jpg;Монитор Philips 223V7QSB/10, черный;25523;21;1920?1080 Full HD;VA;75;4;Монитор
+75;/img/25.jpg;Монитор Samsung S24R356FZI, черный;24086;23;1920?1080 Full HD;IPS;60;5;Монитор
+76;/img/26.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;15269;26;1920?1080 Full HD;IPS;165;1;Монитор
+77;/img/27.jpg; Монитор Xiaomi Mi Monitor 1C, черный;17683;29;1920?1080 Full HD;IPS;200;2;Монитор
+78;/img/28.jpg; Монитор SANC M2742PH, черный;18637;23;1920?1080 Full HD;VA;60;3;Монитор
+79;/img/29.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;25933;30;1920?1080 Full HD;IPS;165;4;Монитор
+80;/img/30.jpg; Монитор Samsung LC24F396FHIXCI, черный;30692;31;1920?1080 Full HD;IPS;75;5;Монитор
+81;/img/31.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;13769;27;1920?1080 Full HD;IPS;75;1;Монитор
+82;/img/32.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;22497;22;1920?1080 Full HD;VA;200;2;Монитор
+83;/img/33.jpg;Монитор SANC M2453, черный;18810;20;1920?1080 Full HD;IPS;60;3;Монитор
+84;/img/34.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;32570;28;1920?1080 Full HD;IPS;165;4;Монитор
+85;/img/35.jpg;Монитор Samsung LC24F396FHIXCI, черный;22653;27;1920?1080 Full HD;VA;75;5;Монитор
+86;/img/36.jpg;Монитор Compit IPS 75Hz HA2405 Series 1, черный;17477;20;1920?1080 Full HD;VA;75;1;Монитор
+87;/img/37.jpg;Монитор Xiaomi Mi Curved Gaming Monitor 34, черный;21936;32;1920?1080 Full HD;IPS;200;2;Монитор
+88;/img/38.jpg;Монитор SANC M2453, черный;32606;26;1920?1080 Full HD;IPS;75;3;Монитор
+89;/img/39.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 21.45 75Hz , черный;25767;28;1920?1080 Full HD;VA;60;4;Монитор
+90;/img/40.jpg;Монитор Samsung Odyssey 27G55T;26074;28;1920?1080 Full HD;IPS;165;5;Монитор
+91;/img/41.jpg;Монитор Xiaomi Монитор Xiaomi Redmi Display 27 1080P 60Hz (RMMNT27NF), черный;14965;30;1920?1080 Full HD;IPS;200;1;Монитор
+92;/img/42.jpg; Монитор Xiaomi Mi Monitor 1C, черный;23626;26;1920?1080 Full HD;IPS;60;2;Монитор
+93;/img/43.jpg;Монитор Xiaomi RMMNT30HFCW Xiaomi Redmi Surface Display 30, черный;27726;22;1920?1080 Full HD;VA;200;3;Монитор
+94;/img/44.jpg;Монитор Philips 23,8 243V7QJABF (00/01) черный (LED,IPS,1920?1080,76 Гц,16:9,матовая,5 мс,178°гор/178°вер,HDMI,DP,колонки), черный;27130;31;1920?1080 Full HD;IPS;60;4;Монитор
+95;/img/45.jpg;Монитор Samsung C24RG50FZI, черный;27541;24;1920?1080 Full HD;IPS;165;5;Монитор
+96;/img/46.jpg; Монитор Compit IPS 75Hz HV2203 Series 1, черный;22838;24;1920?1080 Full HD;VA;75;1;Монитор
+97;/img/47.jpg; Монитор Xiaomi Mi Monitor 1C, черный;25169;32;1920?1080 Full HD;IPS;75;2;Монитор
+98;/img/48.jpg; Монитор SANC M2742PH, черный;16237;28;1920?1080 Full HD;IPS;200;3;Монитор
+99;/img/49.jpg;Монитор Philips 223V7QSB/10, черный;21196;25;1920?1080 Full HD;IPS;75;4;Монитор
+100;/img/50.jpg;Монитор Samsung S24R356FZI, черный;24352;24;1920?1080 Full HD;IPS;60;5;Монитор
